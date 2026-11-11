@@ -1,0 +1,16 @@
+.header {
+  background-color: #1d428a;
+  border-bottom: 4px solid #c8102e;
+  padding: 24px;
+  text-align: center;
+}
+
+.titulo {
+  color: #fff;
+  font-size: 32px;
+}
+
+.subtitulo {
+  color: #dbe4f5;
+  margin-top: 6px;
+}
